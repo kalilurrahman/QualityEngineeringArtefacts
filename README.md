@@ -24,4 +24,20 @@ A curated collection of quality engineering strategies, checklists, and industry
 | The-Testing-Revolution-in-Transportation-and-Logistics (1).pdf | Possible alternate or revised version; focuses on logistics/transport testing transformation. | [PDF](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/The-Testing-Revolution-in-Transportation-and-Logistics%20(1).pdf) |
 | The-Ultimate-Guide-to-Automotive-Testing-Strategy-for-the-AI-Driven-Era.pdf | An extensive guide for building robust automotive testing strategies in the AI era. | [PDF](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/The-Ultimate-Guide-to-Automotive-Testing-Strategy-for-the-AI-Driven-Era.pdf) |
 | Transform-Quality-Engineering-with-AI-A-60-Day-Blueprint-for-Digital-Success.pdf | Practical 60-day plan to leverage AI for improving quality engineering results. | [PDF](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/Transform-Quality-Engineering-with-AI-A-60-Day-Blueprint-for-Digital-Success.pdf) |
-| Transform-Your-Factory-with-AI-Driven-Quality-Engineering.pdf | Blueprint for deploying AI-driven quality engineering in manufacturing. | [PDF](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob) |
+| Transform-Your-Factory-with-AI-Driven-Quality-Engineering.pdf | Blueprint for deploying AI-driven quality engineering in manufacturing. | [PDF](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/Transform-Your-Factory-with-AI-Driven-Quality-Engineering.pdf) |
+| Transform-Your-Streaming-Platform-with-AI-Driven-Quality-Engineering.pdf | Demonstrates AI-powered quality engineering on streaming platforms. | [PDF](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/Transform-Your-Streaming-Platform-with-AI-Driven-Quality-Engineering.pdf) |
+| Transform-Your-Supply-Chain-with-AI-Driven-Quality-Engineering.pdf | Strategies for AI-driven QA across today’s digital supply chains. | [PDF](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/Transform-Your-Supply-Chain-with-AI-Driven-Quality-Engineering.pdf) |
+| Transform-Your-Testing-Strategy-in-5-Years.pdf | Outlines a five-year roadmap to transform organizational test strategies. | [PDF](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/Transform-Your-Testing-Strategy-in-5-Years.pdf) |
+| Unlock-Your-Transportation-Test-Strategy-30-Critical-Insights-for-Technology-Leaders.pdf | Provides 30 actionable test insights for transportation technology leaders. | [PDF](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/Unlock-Your-Transportation-Test-Strategy-30-Critical-Insights-for-Technology-Leaders.pdf) |
+
+## How to Use
+
+- Browse the table for resources specific to your domain.
+- Read sector reports for up-to-date strategies.
+- Implement checklists and roadmaps in your organization.
+
+## Contributions
+
+Suggestions for new artifacts, corrections, and summaries are welcome—submit a pull request or open an issue!
+
+_Last updated: August 29, 2025_
