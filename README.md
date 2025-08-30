@@ -132,6 +132,7 @@ Explore deep-dive strategy papers and playbooks, each specifically addressing th
 
 ---
 
+<!-- 
 ## **Visual Overview: 2 Column File Gallery**
 
 | ![PDF 1](https://via.placeholder.com/120x160.png?text=Retail) | ![PDF 2](https://via.placeholder.com/120x160.png?text=Wholesale) |
@@ -141,6 +142,8 @@ Explore deep-dive strategy papers and playbooks, each specifically addressing th
 | [5-Critical-Test-Strategies-Every-Energy-Enterprise-Needs-By-2025.pdf](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/5-Critical-Test-Strategies-Every-Energy-Enterprise-Needs-By-2025.pdf)<br><sub>Top QA strategies for digital energy transformation</sub> | [5-Ways-AI-is-Revolutionizing-Telecom-Quality-Engineering.pdf](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/5-Ways-AI-is-Revolutionizing-Telecom-Quality-Engineering.pdf)<br><sub>AI-driven innovations in telecom quality engineering</sub> |
 | ![PDF 5](https://via.placeholder.com/120x160.png?text=Healthcare) | ![PDF 6](https://via.placeholder.com/120x160.png?text=Automotive) |
 | [Revolutionizing-Healthcare-Testing-The-AI-Powered-Safety-Net-You-Need-to-Know-About.pdf](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/Revolutionizing-Healthcare-Testing-The-AI-Powered-Safety-Net-You-Need-to-Know-About.pdf)<br><sub>AI-driven risk detection and compliance for healthcare QA</sub> | [The-Future-of-Automotive-Quality-is-Here-AI-Driven-Engineering.pdf](https://github.com/kalilurrahman/QualityEngineeringArtefacts/blob/main/The-Future-of-Automotive-Quality-is-Here-AI-Driven-Engineering.pdf)<br><sub>The future of auto QA with AI engineering</sub> |
+
+-->
 
 <!-- Add more rows for all other files organized by industry as above -->
 
