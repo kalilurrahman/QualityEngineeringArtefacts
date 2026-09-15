@@ -69,7 +69,13 @@ Ensuring reliability and safety in critical infrastructure and renewable integra
 | **5-Critical-Testing-Challenges-Every-Energy-Sector-Leader-Must-Address-in-2024.pdf** | 1.3M | Core challenges: interoperability, cybersecurity, and predictive maintenance. | [View PDF](5-Critical-Testing-Challenges-Every-Energy-Sector-Leader-Must-Address-in-2024.pdf) |
 | **Revolutionizing-Testing-in-the-Energy-Sector-AI-Powered-Strategies-for-a-Volatile-Industry.pdf** | 5.3M | Resilient QA via AI: outage detection and risk management. | [View PDF](Revolutionizing-Testing-in-the-Energy-Sector-AI-Powered-Strategies-for-a-Volatile-Industry.pdf) |
 
----
+| Document Name | Description | Size | Link |
+| :--- | :--- | :--- | :--- |
+| **10 Critical Test Strategies Every Retail Tech Leader Needs Now** | Explores top strategies including omnichannel validation, regulatory automation, and rapid feature rollout. | 5.0 MB | [Download PDF](./10-Critical-Test-Strategies-Every-Retail-Tech-Leader-Needs-Now.pdf) |
+| **40-Point Test Strategy Checklist for Food and Drug Retail** | Granular checklist for regulatory compliance, SKU traceability, safety testing, and recall readiness. | 5.2 MB | [Download PDF](./40-Point-Test-Strategy-Checklist-for-Food-and-Drug-Retail.pdf) |
+| **The Future of QA in Retail Tech: Navigating the AI Revolution** | AI-powered QA use cases, automation, and predictive analytics for consumer expectations. | 4.0 MB | [Download PDF](./The-Future-of-QA-in-Retail-Tech-Navigating-the-AI-Revolution.pdf) |
+| **The Future of Quality Engineering in Food and Drug Retail** | Strategic look at AI-driven QE for digital supply chains, recalls, and regulatory tech adoption. | 4.0 MB | [Download PDF](./The-Future-of-Quality-Engineering-in-Food-and-Drug-Retail.pdf) |
+| **Unlock the Ultimate Enterprise Test Strategy for Apparel E-commerce** | Strategies for robust QA from order processing to returns and personalization validation. | 6.3 MB | [Download PDF](./Unlock-the-Ultimate-Enterprise-Test-Strategy-for-Apparel-E-commerce.pdf) |
 
 ## Telecommunications
 ![Telecom Badge](https://img.shields.io/badge/Industry-Telecom-red) ![AI Badge](https://img.shields.io/badge/Focus-AI-purple)
@@ -82,7 +88,7 @@ High-speed validation for 5G, network slicing, and customer experience.
 | **7-Critical-Telecommunication-Enterprise-Testing-Challenges-That-Are-Costing-You-Millions.pdf** | 4.3M | Critical pitfalls in telecom testing and frameworks for reducing loss. | [View PDF](7-Critical-Telecommunication-Enterprise-Testing-Challenges-That-Are-Costing-You-Millions.pdf) |
 | **Beyond-QA-The-Future-of-AI-Driven-Testing-for-Enterprise-Telcos.pdf** | 6.4M | Visionary report on adaptive regression and network slicing. | [View PDF](Beyond-QA-The-Future-of-AI-Driven-Testing-for-Enterprise-Telcos.pdf) |
 
----
+### <a id="energy--utilities"></a>⚡ Energy & Utilities
 
 ## Healthcare, Biotech & Insurance
 ![Healthcare Badge](https://img.shields.io/badge/Industry-Healthcare-brightgreen) ![Biotech Badge](https://img.shields.io/badge/Focus-Biotech-teal)
@@ -95,7 +101,11 @@ Regulatory compliance, patient safety, and AI risk management.
 | **AI-Revolutionizes-Biotech-Testing-The-New-Regulatory-Frontier.pdf** | 3.5M | Intersection of biotech QA, AI, and regulatory boundaries. | [View PDF](AI-Revolutionizes-Biotech-Testing-The-New-Regulatory-Frontier.pdf) |
 | **Is-Your-Insurance-Company-Ready-for-the-AI-Revolution-in-Quality-Engineering_compressed.pdf** | 1.0M | Readiness frameworks for insurance QA in the age of AI. | [View PDF](Is-Your-Insurance-Company-Ready-for-the-AI-Revolution-in-Quality-Engineering_compressed.pdf) |
 
----
+| Document Name | Description | Size | Link |
+| :--- | :--- | :--- | :--- |
+| **5 Ways AI is Revolutionizing Telecom Quality Engineering** | Telecom QA shifts with AI: network self-healing, dynamic validation, and customer experience analytics. | 2.9 MB | [Download PDF](./5-Ways-AI-is-Revolutionizing-Telecom-Quality-Engineering.pdf) |
+| **7 Critical Telecommunication Enterprise Testing Challenges** | Pinpoints expensive pitfalls from edge computing to complex system interoperability. | 4.3 MB | [Download PDF](./7-Critical-Telecommunication-Enterprise-Testing-Challenges-That-Are-Costing-You-Millions.pdf) |
+| **Beyond QA: The Future of AI-Driven Testing for Enterprise Telcos** | Visionary report on adaptive regression, network slicing, and AI-first telecom quality roles. | 6.4 MB | [Download PDF](./Beyond-QA-The-Future-of-AI-Driven-Testing-for-Enterprise-Telcos.pdf) |
 
 ## Manufacturing, Construction & Chemicals
 ![Manufacturing Badge](https://img.shields.io/badge/Industry-Manufacturing-orange) ![Construction Badge](https://img.shields.io/badge/Focus-Construction-brown)
@@ -109,7 +119,7 @@ Industrial automation, IoT safety monitoring, and supply chain precision.
 | **Unleashing-the-Future-of-Tech-Testing-in-Chemical-Industries-A-2024-Guide.pdf** | 3.8M | Industry-specific strategies for chemical companies and safety control. | [View PDF](Unleashing-the-Future-of-Tech-Testing-in-Chemical-Industries-A-2024-Guide.pdf) |
 | **Transform-Your-Beverage-Company-with-AI-Powered-Testing.pdf** | 5.2M | Beverage sector QA: flavor consistency and ingredient traceability. | [View PDF](Transform-Your-Beverage-Company-with-AI-Powered-Testing.pdf) |
 
----
+### <a id="manufacturing-construction--chemicals"></a>🏭 Manufacturing, Construction & Chemicals
 
 ## Hospitality
 ![Hospitality Badge](https://img.shields.io/badge/Industry-Hospitality-ff69b4)
@@ -120,7 +130,9 @@ Enhancing guest experiences through seamless digital platforms.
 |------|:----:|-------------|:----:|
 | **5-Essential-Test-Strategies-Every-Hospitality-Tech-Leader-Needs-in-2024.pdf** | 6.3M | Roadmap for guest experience platforms and contactless automation. | [View PDF](5-Essential-Test-Strategies-Every-Hospitality-Tech-Leader-Needs-in-2024.pdf) |
 
----
+| Document Name | Description | Size | Link |
+| :--- | :--- | :--- | :--- |
+| **5 Essential Test Strategies Every Hospitality Tech Leader Needs** | Roadmap for guest experience platforms, contactless automation, and regulatory compliance. | 6.3 MB | [Download PDF](./5-Essential-Test-Strategies-Every-Hospitality-Tech-Leader-Needs-in-2024.pdf) |
 
 ## Banking & Insurance
 ![Banking Badge](https://img.shields.io/badge/Industry-Banking-gold) ![Fintech Badge](https://img.shields.io/badge/Focus-Fintech-blue)
@@ -131,7 +143,7 @@ Security, fraud detection, and high-volume transaction reliability.
 |------|:----:|-------------|:----:|
 | **The-40-Critical-Testing-Strategies-Every-Banking-CTO-Needs-in-2024.pdf** | 3.4M | Fraud detection, fintech API testing, and regulatory readiness. | [View PDF](The-40-Critical-Testing-Strategies-Every-Banking-CTO-Needs-in-2024.pdf) |
 
----
+### <a id="automotive-aerospace--defense"></a>🚗 Automotive, Aerospace & Defense
 
 ## Automotive, Aerospace & Defense
 ![Automotive Badge](https://img.shields.io/badge/Industry-Automotive-red) ![Aerospace Badge](https://img.shields.io/badge/Focus-Aerospace-blue)
@@ -145,7 +157,17 @@ Mission-critical testing for autonomous systems and safety standards.
 | **The-Future-of-Automotive-Testing-AI-Driven-Solutions-for-Tomorrows-Vehicles.pdf** | 4.7M | Next-gen AI testing for autonomous/electric vehicles. | [View PDF](The-Future-of-Automotive-Testing-AI-Driven-Solutions-for-Tomorrows-Vehicles.pdf) |
 | **The-Future-of-Aerospace-and-Defense-Testing-Essential-Strategies-for-the-AI-Era.pdf** | 4.7M | Safety testing, autonomous defense platforms, and simulation. | [View PDF](The-Future-of-Aerospace-and-Defense-Testing-Essential-Strategies-for-the-AI-Era.pdf) |
 
----
+| Document Name | Description | Size | Link |
+| :--- | :--- | :--- | :--- |
+| **The Testing Revolution in Transportation and Logistics** | Reviews disruptors from IoT fleet management to digital supply chain validation. | 3.9 MB | [Download PDF](./The-Testing-Revolution-in-Transportation-and-Logistics.pdf) |
+| **Unlock Your Transportation Test Strategy** | 30 concise, actionable insights for QA leaders tackling supply chain digitization. | 3.0 MB | [Download PDF](./Unlock-Your-Transportation-Test-Strategy-30-Critical-Insights-for-Technology-Leaders.pdf) |
+| **Transform Your Supply Chain with AI-Driven Quality Engineering** | Strategies for supplier validation, real-time monitoring, and process automation. | 2.3 MB | [Download PDF](./Transform-Your-Supply-Chain-with-AI-Driven-Quality-Engineering.pdf) |
+
+### <a id="digital-platforms--media"></a>🎬 Digital Platforms & Media
+
+| Document Name | Description | Size | Link |
+| :--- | :--- | :--- | :--- |
+| **Transform Your Streaming Platform with AI-Driven Quality Engineering** | Advanced digital QA and user experience validation for streaming platforms. | 2.0 MB | [Download PDF](./Transform-Your-Streaming-Platform-with-AI-Driven-Quality-Engineering.pdf) |
 
 ## Transportation, Logistics & Supply Chain
 ![Logistics Badge](https://img.shields.io/badge/Industry-Logistics-brown) ![Supply Chain Badge](https://img.shields.io/badge/Focus-Supply--Chain-orange)
@@ -195,7 +217,7 @@ A snapshot of our key resources by industry.
 | **Telecom** | **Healthcare** | **Automotive** |
 | ![Telecom](https://via.placeholder.com/150x200.png?text=Telecom+AI) | ![Healthcare](https://via.placeholder.com/150x200.png?text=Healthcare+Safety) | ![Automotive](https://via.placeholder.com/150x200.png?text=Auto+Engineering) |
 
----
+Contributions to improve these strategies or add new industry insights are welcome!
 
 ## How to Contribute
 
